@@ -5,5 +5,6 @@ I am a beginner programmer from Russia. I want to become a systems programmer
 
 # I will study
 [![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)
-# My skills
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=potichek&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+
+# My skills:
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=potichek&theme=synthwave"></p>
